@@ -1,3 +1,13 @@
+# exclude everything
+input/*
+ok/*
+output/*
+test*
+output*
+
+temporary file
+*.txt
+
 # ignore everything in the root except the "wp-content" directory.
 !wp-content/
 
